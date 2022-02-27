@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rules and directions of the Lords and Commons assembled in Parliament: concerning the examination of all such as shall be admitted to the sacrament of the Lords Supper, within the kingdome of England, and dominion of Wales: contained in an ordinance of the twentieth of October, 1645. with questions and answers concerning the same.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83473</idno>
+            <idno type="STC">Wing E2282A</idno>
+            <idno type="STC">ESTC R214218</idno>
+            <idno type="EEBO-CITATION">47682938</idno>
+            <idno type="OCLC">ocm 47682938</idno>
+            <idno type="VID">172890</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172890)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rules and directions of the Lords and Commons assembled in Parliament: concerning the examination of all such as shall be admitted to the sacrament of the Lords Supper, within the kingdome of England, and dominion of Wales: contained in an ordinance of the twentieth of October, 1645. with questions and answers concerning the same.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for M. Wright ...,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpiece; initial.</note>
+                  <note>Imperfect: faded, with slight loss of print.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms.</term>
+               <term>Lord's Supper --  Anglican Communion --  Early works to 1800.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172890:1" rendition="simple:additions"/>
+            <p>THE RULES AND DIRECTIONS of the LORDS and COMMONS Aſſembled in PARLIAMENT: Concerning the Examination of all ſuch as ſhall be admitted to the Sacrament of the LORDS SUPPER, Within the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales:</hi> Contained In an Ordinance of the twentieth of <hi>October,</hi> 1645. with Queſtions and Anſwers concerning the ſame.</p>
+            <p>Printed at <hi>London</hi> for <hi>M. Wright,</hi> at the Kings Head in the Old Bayley. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_rules">
+            <pb facs="tcp:172890:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:172890:2"/>
+            <head>Rules and Directions concerning ſuſpenſion from the Sacrament of the Lords Supper, in caſe of Ignorance.</head>
+            <list>
+               <item>1.
+<seg rend="decorInit">A</seg>Ll ſuch perſons who ſhall bee admitted to the Sacrament of the Lords Supper, ought to know that there is a God, that there is but one ever living and true God, maker of Heaven and Earth, and Governour of all things; That this onely true God, is the God whom we wor<g ref="char:EOLhyphen"/>ſhip; that this God is but one, yet three diſtinct Perſons, the
+<pb n="4" facs="tcp:172890:3"/>Father, Son, and holy Ghoſt, all equall God.</item>
+               <item>2. That God created man ofter his owne Image, in knowledge, righteouſneſs, and true holineſs; That by one man u<g ref="char:cmbAbbrStroke">̄</g>n entied into the world, and death by ſin, and ſo death paſſed upon all men, for that all have ſinned; That there<g ref="char:EOLhyphen"/>by they are all dead in treſpaſſes and ſins, and are by nature the Children of wrath, and ſo lyable to eternall death, the wages of every ſin.</item>
+               <item>3. That there is but one Me<g ref="char:EOLhyphen"/>diator betweene God and man, the man Chriſt Ieſus, who is alſo overall, God bleſſed for ever, nei<g ref="char:EOLhyphen"/>ther is there ſalvation in any o<g ref="char:EOLhyphen"/>ther; That he was conceived by the holy Ghoſt, and born of the Virgin <hi>Mary;</hi> that he dyed upon the croſſe to ſave his people from their ſins; That he role againe the third day from the dead, aſ<g ref="char:EOLhyphen"/>cended
+<pb n="5" facs="tcp:172890:3"/>into Heaven, ſits at the right hand of God, and makes continuall interceſſion for us, of whoſe fulneſs we receive all grace neceſſary to ſalvation.</item>
+               <item>4. That Chriſt and his benefits are applied onely by faith; That faith is the gift of God, and that we have it not of our ſelves, but it is wrought in us by the Word and Spirit of God.</item>
+            </list>
+            <p>That faith is that grace, where<g ref="char:EOLhyphen"/>by we believe and truſt in Chriſt for remiſſion of ſins, and life ever<g ref="char:EOLhyphen"/>laſting according to the promiſe of the Goſpell, that whoſoever believes not on the Son of God ſhall not ſee life, but ſhall periſh eternally.</p>
+            <p>That they who truly repent of their ſins, do ſee them, forrow for them, and turn from them to the Lord, and that except men repent they ſhall ſurely periſh.</p>
+            <p>That a godly life is conſcionably
+<pb n="6" facs="tcp:172890:4"/>ordered according to the Word of God, in Holineſſe and Righte<g ref="char:EOLhyphen"/>ouſneſſe, without which no man ſhall ſee God.</p>
+            <p>That the Sacraments are Seals of the Covenant of Grace in the Blood of Chriſt: That the Sacraments of the new Teſta<g ref="char:EOLhyphen"/>ment, are Baptiſme and the Lords Supper; that the out<g ref="char:EOLhyphen"/>ward Elements in the Lords Supper are Bread &amp; Wine, and doe ſignifie the Body and Blood of Chriſt Crucified, which the worthy Receiver by faith doth partake of in this Sacrament, which Chriſt hath like wiſe ordai<g ref="char:EOLhyphen"/>ned for the remembrance of this death; that whoſoever eats and drinkes unworthily, is guilty of the Body and Blood of the Lord; and therefore that every one is to examine himſelfe, left he eat and drink iudgement to himſelfe, not diſcerning the Lords Body.</p>
+            <p>
+               <pb n="7" facs="tcp:172890:4"/>
+That the ſoules of the faith<g ref="char:EOLhyphen"/>full after death, do immediately live with Chriſt in bleſſedneſſe; and that the ſouls of the wicked, doe immediately goe into Hell torments.</p>
+            <p>That there ſhall be a Reſur<g ref="char:EOLhyphen"/>rection of the Bodies, both of the juſt and unjuſt at the laſt Day, at which time all ſhall ap<g ref="char:EOLhyphen"/>peare before the Iudgement Seat of Chriſt, to receive accor<g ref="char:EOLhyphen"/>ding to what they have done in the body, whether it be good or evill: And that the righteous ſhall goe into life eternall, and the wicked into everlaſting pu<g ref="char:EOLhyphen"/>niſhment.</p>
+            <p>And it is further ordained by the Lords and Commons, that thoſe who have a competent meaſure of underſtanding con<g ref="char:EOLhyphen"/>cerning the matters contained in theſe Articles ſhall not bee kept backe from the Sacrament
+<pb n="8" facs="tcp:172890:5"/>of the Lords Supper for Igno<g ref="char:EOLhyphen"/>rance. And that the Examinati<g ref="char:EOLhyphen"/>on and iudgment of ſuch perſons as ſhall for their ignorance of the aforeſaid points of Religion not be admited to the Sacrament of the Lods Supper, is to be in the power of the Elderſhip of eve<g ref="char:EOLhyphen"/>ry congregation.</p>
+         </div>
+         <div type="catechism">
+            <pb facs="tcp:172890:5"/>
+            <head>SHORT Queſtions and Anſwers.</head>
+            <p>
+               <label>Q</label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat is God?</hi>
+            </p>
+            <p>
+               <label>A.</label> A moſt holy Spirit, Infinite in all perfections, <hi>Ioh.</hi> 4.24. 1 <hi>Tim.</hi> 6.16.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many Gods are there?</hi>
+            </p>
+            <p>
+               <label>A.</label> One onely, 1 <hi>Cor.</hi> 8.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Into how many Perſons is this one God diſtinguiſhed?</hi>
+            </p>
+            <p>
+               <label>A.</label> Into three, The Father, the Son, and the Holy Ghoſt, <hi>Mat.</hi> 28.19. 1 <hi>Joh.</hi> 5.7.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what eſtate was man made by God at firſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> In a very happy eſtate, being made after the Image of God, <hi>Gen.</hi> 1.27.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what reſpect is man ſaid to be made after the Image of God?</hi>
+            </p>
+            <p>
+               <label>A.</label> In that he was indued with perfect knowledge, and with true holineſſe and righteouſneſſe, <hi>Col.</hi> 3.10. <hi>Eph.</hi> 4.24.</p>
+            <p>
+               <pb facs="tcp:172890:6"/>
+               <label>Q.</label> 
+               <hi>Did man alwaies continue in that happy eſtate wherein he was at firſt made?</hi>
+            </p>
+            <p>
+               <label>A.</label> No, he became miſerable by ſinne, <hi>Gen.</hi> 3.17.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What was the ſin which</hi> Adam <hi>did commit?</hi>
+            </p>
+            <p>
+               <label>A.</label> Diſobedience againſt God, in eating the forbidden fruit, <hi>Gen.</hi> 3.3, 6.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Did all Man-kind ſin in</hi> Adam?</p>
+            <p>
+               <hi>A.</hi> Yes: <hi>Adam</hi> was a publick perſon, and we were all in his loines, <hi>Rom.</hi> 5.19.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is ſin in generall?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A tranſgreſſion of Gods Command<g ref="char:EOLhyphen"/>ments, 1 <hi>John</hi> 3.4.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What be the kinds of ſin:</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Originall, which is the corrupti<g ref="char:EOLhyphen"/>on of nature, wherein we are conceived and born, <hi>Gal.</hi> 5.19.</item>
+                  <item>2. Actuall, which is the fruit of that corruption in evill thoughts, words and deeds, <hi>Pſal.</hi> 51.5.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the puniſhment due to ſin?</hi>
+            </p>
+            <p>
+               <label>A.</label> All curſes and plagues in this life, at the end death, and after that eternall tor<g ref="char:EOLhyphen"/>ment in Hell, <hi>Deut.</hi> 28.16, 17. <hi>Rom.</hi> 9.23 2 <hi>Theſ.</hi> 1.8, 9.</p>
+            <p>
+               <pb facs="tcp:172890:6"/>
+               <label>Q.</label> 
+               <hi>Seeing we are all ſinners, by what means may we eſcape thoſe miſeries which we have deſerved, and recover happineſſe?</hi>
+            </p>
+            <p>
+               <label>A.</label> Onely by Jeſus Chriſt, <hi>Acts</hi> 41.2.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Jeſus Chriſt is the onely begotten Son of God, who alſo became man for our ſalvation, <hi>Luke</hi> 1.35. <hi>John</hi> 1.14.</p>
+            <p>
+               <label>Q</label> 
+               <hi>What hath Chriſt done and ſuffered for our redemption?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>He fulfilled the Law for us, <hi>Mat.</hi> 3.15.</item>
+                  <item>2. He hath endured the curſe of the Law due to our ſinnes, <hi>Eſay</hi> 53.5.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How are men made partakers of the benefits of thoſe things which Chriſt did and ſuffered?</hi>
+            </p>
+            <p>
+               <label>A.</label> By Faith, <hi>John</hi> 1.12.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is Faith?</hi>
+            </p>
+            <p>
+               <label>A.</label> A grace whereby we receive Chriſt as our perfect Saviour, and reſt upon him alone for ſalvation, <hi>Joh.</hi> 1.12. <hi>Acts</hi> 16.31.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is Faith wrought in us?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Inwardly by the Spirit of God, <hi>Acts</hi> 16.14.</item>
+                  <item>
+                     <pb facs="tcp:172890:7"/>
+2. Outwardly, by the preaching of the Word, <hi>Rom.</hi> 10.14.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What meanes hath God appointed to strengthen our faith?</hi>
+            </p>
+            <p>
+               <label>A.</label> All his holy Ordinances, eſpecially his Sacraments, <hi>Act.</hi> 2.38.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is chiefly to be conſidered in a Sacrament?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. The outward ſignes and rites.</item>
+                  <item>2. The inward things ſignified thereby</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many Sacraments are there?</hi>
+            </p>
+            <p>
+               <label>A.</label> Two, Baptiſine and the Lords Sup<g ref="char:EOLhyphen"/>per, <hi>Mat.</hi> 28.19. <hi>Mat.</hi> 26.26. <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſpeciall uſe of Baptiſme?</hi>
+            </p>
+            <p>To ingraft us into Chriſt, <hi>Mat.</hi> 28.19. <hi>Gal.</hi> 4.27.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the outward ſign in Baptiſm?</hi>
+            </p>
+            <p>
+               <label>A.</label> Water, <hi>Act.</hi> 10 47.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth that ſet forth?</hi>
+            </p>
+            <p>
+               <label>A.</label> Chriſts Blood, <hi>Rev.</hi> 1.5.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth the ſprinkling of it upon the party baptized ſet out.</hi>
+            </p>
+            <p>
+               <label>A.</label> Our ſpirituall cleanſing from ſin by the blood of Chriſt, 1 <hi>Pet.</hi> 1.2.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſpeciall uſe of the Lords Supper?</hi>
+            </p>
+            <p>
+               <pb facs="tcp:172890:7"/>
+               <label>A.</label>
+               <list>
+                  <item>1 To make us remember Chriſts death, 1 <hi>Cor.</hi> 11.25.</item>
+                  <item>2 To make us grow in grace.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What are the outward ſignes thereof?</hi>
+            </p>
+            <p>
+               <label>A.</label> Bread and Wine, <hi>Mat.</hi> 26.26, 27.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth the Bread ſet forth?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Body of Chriſt, <hi>Mat.</hi> 26.26.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth the Wine ſet forth?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Blood of Chriſt, <hi>Mat.</hi> 26.27.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In whoſe roome ſtands the Miniſter?</hi>
+            </p>
+            <p>
+               <label>A.</label> In the roome of God himſelfe, 2 <hi>Cor.</hi> 5.20.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is ſet forth by the Miniſters bleſſing Bread and Wine?</hi>
+            </p>
+            <p>
+               <label>A.</label> Gods ſetting of his Son apart for our Redemption, <hi>Ioh.</hi> 10.36.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is ſignified by breaking the bread?</hi>
+            </p>
+            <p>
+               <label>A.</label> The ſufferings which Chriſt endured in his body, 1 <hi>Cor.</hi> 11.24.</p>
+            <p>
+               <hi>What is ſignified by powring out of wine?</hi>
+            </p>
+            <p>
+               <label>A.</label> Shedding Chriſts blood, <hi>Luk.</hi> 22.20.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is ſignified by the Miniſters gi<g ref="char:EOLhyphen"/>ving Bread and Wine to the Communicants?</hi>
+            </p>
+            <p>
+               <label>A.</label> Gods giving of his Son unto them, <hi>Mat.</hi> 26.26.</p>
+            <p>
+               <pb facs="tcp:172890:8"/>
+               <label>Q.</label> 
+               <hi>What doth peoples taking Bread and Wine ſet out?</hi>
+            </p>
+            <p>
+               <label>A.</label> Their applying Chriſts body and blood unto themſelves by faith, <hi>Ioh.</hi> 6.35.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is required of every one before he comes to the Lords Table?</hi>
+            </p>
+            <p>
+               <label>A.</label> He muſt examine himſelfe, 1 <hi>Cor.</hi> 11.28.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Of what muſt he examine himſelfe?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Of his ſins.</item>
+                  <item>2. Of his graces.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Of what graces muſt a man, before his coming to the Lords Table, examine himſelf?</hi>
+            </p>
+            <p>
+               <label>Anſ.</label>
+               <list>
+                  <item>1. Of his Knowledge.</item>
+                  <item>2. Of his Faith.</item>
+                  <item>3. Of his Repentance.</item>
+                  <item>4. Of his Love.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How ought every one to behave him<g ref="char:EOLhyphen"/>ſelf at the Lords Table?</hi>
+            </p>
+            <p>
+               <label>A.</label> With all holy reverence, thankfully remembring Chriſts death, and ſeriouſly conſidering the things that are ſignified by the outward ſignes and rites, <hi>Eccleſ.</hi> 5.11. <hi>Cor.</hi> 11.25.</p>
+            <p>Q. <hi>What is the danger of unworthy recei<g ref="char:EOLhyphen"/>ving?</hi>
+            </p>
+            <p>
+               <pb facs="tcp:172890:8"/>
+               <label>A.</label> Unworthy receivers are guilty or the body and blood of Chriſt, and ſo doe eat and drink their own damnation, 1 <hi>Cor.</hi> 11.27.29.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is to be done after our recei<g ref="char:EOLhyphen"/>ving?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>We muſt give hearty thankes unto God, as for all his benefits, ſo eſpecially for giving unto us Chriſt, to perfect the work of our ſalvation.</item>
+                  <item>2. We muſt examine how we have pro<g ref="char:EOLhyphen"/>fited by our receiving.</item>
+                  <item>3. Wee muſt carefully performe our vowes and promiſes made unto God, of leading a new life, &amp; bringing forth fruits meet for repentance.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is repentance?</hi>
+            </p>
+            <p>
+               <label>A.</label> It is a ſighing and ſorrowing for ſins, and turning from them to God, <hi>Acts</hi> 3.9.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Is this repentance neceſſary to ſalva<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, for except men repent, they ſhall ſurely periſh, <hi>Luk.</hi> 13.3.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is a godly life?</hi>
+            </p>
+            <p>
+               <label>A.</label> A life conſcionably ordered accor<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:172890:9"/>to the Word of God, in holineſſe and righteouſneſſe, <hi>Pſal.</hi> 119.19. <hi>Luk.</hi> 1.75.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Is a godly life alſo neceſſary to ſalvation?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, for without holineſs and righteouſ<g ref="char:EOLhyphen"/>neſs no man ſhall ſee the Lord, <hi>Heb.</hi> 12.14.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Seeing the ſoule of man is immortall and can<g ref="char:EOLhyphen"/>not dye, what ſhall become there <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f when it ſhall be ſe<g ref="char:EOLhyphen"/>parated from the body?</hi>
+            </p>
+            <p>
+               <label>A.</label> The ſoules of the faithfull ſhall imme<g ref="char:EOLhyphen"/>diately live with Chriſt in bleſſedneſſe, and the ſouls of the wicked ſhall immediately go into hell torments, <hi>Luk.</hi> 16.22, 23. and <hi>Chap.</hi> 23. <hi>ver.</hi> 43. <hi>Phil.</hi> 1.23.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>But ſhall not the body alſo be quickned and raiſed againe?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, there ſhall be a Reſurrection of the bodies both of the juſt and unjuſt at the laſt day, at which time the ſoule and body ſhall be united, and ſhall all appear before the Judgement Seat of Chriſt, to receive ac<g ref="char:EOLhyphen"/>cording to what they have done in their life times, whether good or evill; then ſhall the righteous inherite life eternall, but the wic<g ref="char:EOLhyphen"/>ked ſhall goe into everlaſting torment, <hi>John.</hi> 5.28, 29. <hi>Matth.</hi> 25.32. 2 <hi>Cor.</hi> 5.10. <hi>Matth.</hi> 25.46.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
